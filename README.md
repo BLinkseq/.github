@@ -10,7 +10,6 @@ We see the promise of linked-read technology and want to see it adopted. We crea
 We also wrote the [Harpy](https://www.github.com/pdimens/harpy), [Djinn](https://www.github.com/pdimens/djinn), and [Mimick](https://www.github.com/pdimens/mimick)
 software to provide platform-agnostic tooling for data processing. We are currently reviving the lariat linked-read
 aligner as [Arachne](https://www.github.com/pdimens/arachne). We promote collaboration and open conversation regarding leveraging linked-reads to do great science.
- width="90" height="90" style="border-radius: 50%; object-fit: cover;" height="90" style="border-radius: 50%; object-fit: cover;"
 
 ## 🤝🏻 Contributors
 <table align="center">
