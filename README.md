@@ -64,7 +64,7 @@ aligner as [Arachne](https://www.github.com/pdimens/arachne). We promote collabo
 
 <td align="center" valign="top">
       <a href="https://www.rhiannonschembri.com/">
-        <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQUFeCiob3d155M_ZYU2DQAMmib00pY95JQlGWnVInDuqWMuzjoy66sSNCD8_cejsiqx_f0WA63uL1i_kBcudnzI0t6LKPEekKAJjDuIaBJKUJoBk4L28sF65iQzHpVJyB4N4YMiVOIlfuQKOusnOiovdkVohMNqNLUbYWHzD7hlGQ5WP7IqgHt1_NviMd8EzwohySqxIBPfrqdTdApsck7heWu1hsqeGPp_oTKRK-c=w1280"
+        <img src="https://avatars.githubusercontent.com/u/32833669?v=4"
           width="90" height="90" style="border-radius: 50%; object-fit: cover; overflow: hidden" alt="Rhiannon Schembri"><br>
         <strong>Rhiannon</strong><br>
         Schembri
