@@ -10,7 +10,7 @@
 We see the promise of linked-read technology and want to see it adopted, so we created the non-commercial BLink-seq linked-read chemistry to do that.
 We also wrote the [Harpy](https://www.github.com/pdimens/harpy), [Djinn](https://www.github.com/pdimens/djinn), and [Mimick](https://www.github.com/pdimens/mimick)
 software to provide platform-agnostic tooling for data processing. We are currently reviving the lariat linked-read
-aligner as [Arachne](https://www.github.com/pdimens/arachne). We promote collaboration and open conversation regarding leveraging linked-reads to do great science.
+aligner as [Arachne](https://www.github.com/blinkseq/arachne). We promote collaboration and open conversation regarding leveraging linked-reads to do great science.
 
 <h5 align="center">
     <a href="https://blinkseq.github.io">
