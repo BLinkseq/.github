@@ -29,6 +29,14 @@ aligner as [Arachne](https://www.github.com/pdimens/arachne). We promote collabo
     </td>
 
 <td align="center" valign="top">
+      <a href="https://therkildsen-lab.github.io">
+        <img src="https://therkildsen-lab.github.io/images/nina.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Nina Therkildsen"><br>
+        <strong>Nina</strong><br>
+        Therkildsen
+      </a>
+    </td>
+
+<td align="center" valign="top">
       <a href="https://azwadriqbal.github.io/">
         <img src="https://therkildsen-lab.github.io/images/azwad.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Azwad Iqbal"><br>
         <strong>Azwad</strong><br>
@@ -49,14 +57,6 @@ aligner as [Arachne](https://www.github.com/pdimens/arachne). We promote collabo
         <img src="https://www.biotech.cornell.edu/sites/default/files/styles/medium_square/public/2025-11/GIH_Jacob_Landis_0.png?h=fffd53c2&itok=oxKSrGO-" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Jacob Landis"><br>
         <strong>Jacob</strong><br>
         Landis
-      </a>
-    </td>
-
-<td align="center" valign="top">
-      <a href="https://therkildsen-lab.github.io">
-        <img src="https://therkildsen-lab.github.io/images/nina.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Nina Therkildsen"><br>
-        <strong>Nina</strong><br>
-        Therkildsen
       </a>
     </td>
 
