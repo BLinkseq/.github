@@ -30,7 +30,7 @@ aligner as [Arachne](https://www.github.com/blinkseq/arachne). We promote collab
 
 <td align="center" valign="top">
       <a href="https://therkildsen-lab.github.io">
-        <img src="https://therkildsen-lab.github.io/images/nina.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Nina Therkildsen"><br>
+        <img src="https://therkildsen-lab.github.io/images/people/nina.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Nina Therkildsen"><br>
         <strong>Nina</strong><br>
         Therkildsen
       </a>
@@ -38,7 +38,7 @@ aligner as [Arachne](https://www.github.com/blinkseq/arachne). We promote collab
 
 <td align="center" valign="top">
       <a href="https://azwadriqbal.github.io/">
-        <img src="https://therkildsen-lab.github.io/images/azwad.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Azwad Iqbal"><br>
+        <img src="https://azwadriqbal.github.io/media/authors/me_hu_b180be19a73e1e20.jpg" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Azwad Iqbal"><br>
         <strong>Azwad</strong><br>
         Iqbal
       </a>
