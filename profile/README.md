@@ -17,7 +17,7 @@ aligner as [Arachne](https://www.github.com/blinkseq/arachne). We promote collab
     <img src="https://img.shields.io/badge/visit%20our%20site-8A2BE2?style=for-the-badge">
 </h5>
 
-## 🤝🏻 Contributors
+## We are BLink-seq 🤝🏻
 <table align="center">
   <tr>
     <td align="center" valign="top">
@@ -57,14 +57,6 @@ aligner as [Arachne](https://www.github.com/blinkseq/arachne). We promote collab
         <img src="https://www.biotech.cornell.edu/sites/default/files/styles/medium_square/public/2025-11/GIH_Jacob_Landis_0.png?h=fffd53c2&itok=oxKSrGO-" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Jacob Landis"><br>
         <strong>Jacob</strong><br>
         Landis
-      </a>
-    </td>
-
-<td align="center" valign="top">
-      <a href="https://www.biotech.cornell.edu/about-us/people/paul-munn">
-        <img src="https://www.biotech.cornell.edu/sites/default/files/styles/medium/public/2020-12/GIH_Paul%20Munn.jpg?itok=Hm0ygr4N" width="90" height="90" style="border-radius: 50%; object-fit: cover;" alt="Paul Munn"><br>
-        <strong>Paul</strong><br>
-        Munn
       </a>
     </td>
 
